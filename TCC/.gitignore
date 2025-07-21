@@ -1,0 +1,29 @@
+# Python/Django
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.pot
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# Node/React
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
